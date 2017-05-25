@@ -1,10 +1,10 @@
 {
-  "stack":[
+  "stacks":[
       {
 	  "kind":"terraform#stack",
 	  "status":"initiated",
 	  "href": "/api/v1.0/stack",
 	  "id":"dhsjka4jhkd9lkjsdl"
       }
-      ]
+  ]
 }
